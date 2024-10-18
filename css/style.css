@@ -1,0 +1,15 @@
+header {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.image {
+    width: 80%;
+}
+
+.list {
+    text-decoration: underline;
+}
